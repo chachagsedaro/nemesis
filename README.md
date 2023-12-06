@@ -3,10 +3,10 @@ nemesis is an ongoing image to sound synthesis research project by Vansh Murad K
 
 nemesis has it's roots based in my project for Ben Holtzman's Data Sonification class but it has evolved since then. If you're interested in using a sister project of this research that converts any given image into a Midi file, visit: [Website Coming Soon]
 
-## Final Outputs:
+## File Directory:
 1. [`Working Markdown file`](https://github.com/chachagsedaro/nemesis/blob/main/project_nemesis.ipynb)
 2. [`Trained CNN Model`](https://github.com/chachagsedaro/nemesis/blob/main/nemesis_model.h5)
-3. [`Data`](https://www.cs.toronto.edu/~kriz/cifar.html)
+3. [`Training Data Description`](https://www.cs.toronto.edu/~kriz/cifar.html)
 4. [`Image Used`](https://github.com/chachagsedaro/nemesis/blob/main/mostimportant.png)
 
 ## Next Steps
