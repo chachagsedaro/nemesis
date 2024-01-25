@@ -12,7 +12,7 @@ nemesis has it's roots based in my project for Ben Holtzman's Data Sonification 
 ## Next Steps:
 
 1. Convert the activations path into an explainer animation video (ongoing Dec 2023)
-2. Hypertune sinewave and other parameters guiding our synthesized sound to make them more musiccy (ongoing Dec 2023
+2. Hypertune sinewave and other parameters guiding our synthesized sound to make them more musiccy (ongoing Dec 2023)
 3. Sonifying the training process of a CNN model 
 
 ## Names and E-mails of contributors: 
